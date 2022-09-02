@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-02T11:10:29 WIB" name="Default suite" finished-at="2022-09-02T11:10:29 WIB" duration-ms="82">
+    <groups>
+    </groups>
+    <test started-at="2022-09-02T11:10:29 WIB" name="Default test" finished-at="2022-09-02T11:10:29 WIB" duration-ms="82">
+      <class name="testng.TestSortAlgoDynamic">
+        <test-method is-config="true" signature="befTest()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="befTest" finished-at="2022-09-02T11:10:29 WIB" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befTest -->
+        <test-method is-config="true" signature="befClass()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="befClass" finished-at="2022-09-02T11:10:29 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befClass -->
+        <test-method is-config="true" signature="befMethod()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="befMethod" finished-at="2022-09-02T11:10:29 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befMethod -->
+        <test-method signature="testKedua()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="testKedua" finished-at="2022-09-02T11:10:29 WIB" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKedua -->
+        <test-method is-config="true" signature="aftMethod()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="aftMethod" finished-at="2022-09-02T11:10:29 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftMethod -->
+        <test-method is-config="true" signature="befMethod()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="befMethod" finished-at="2022-09-02T11:10:29 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befMethod -->
+        <test-method signature="testPertama()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="testPertama" finished-at="2022-09-02T11:10:29 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPertama -->
+        <test-method is-config="true" signature="aftMethod()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="aftMethod" finished-at="2022-09-02T11:10:29 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftMethod -->
+        <test-method is-config="true" signature="aftClass()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="aftClass" finished-at="2022-09-02T11:10:29 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftClass -->
+        <test-method is-config="true" signature="aftTest()[pri:0, instance:testng.TestSortAlgoDynamic@6da21078]" started-at="2022-09-02T11:10:29 WIB" name="aftTest" finished-at="2022-09-02T11:10:29 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftTest -->
+      </class> <!-- testng.TestSortAlgoDynamic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
